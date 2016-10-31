@@ -1,7 +1,7 @@
 FROM josemrb/alpine-supervisord
 MAINTAINER Jose Miguel Rivero Bruno <work@josemrb.com>
 
-ENV PGWEB_VERSION 0.9.4
+ENV PGWEB_VERSION 0.9.5
 
 ADD https://github.com/sosedoff/pgweb/releases/download/v$PGWEB_VERSION/pgweb_linux_amd64.zip /tmp/
 
