@@ -1,9 +1,9 @@
 # josemrb/alpine-supervisord
 [![Docker Automated build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/josemrb/alpine-supervisord/)
 
-based on alpine 3.4
+based on alpine 3.6
 
-[supervisord 3.3.1](https://github.com/Supervisor/supervisor)
+[supervisord 3.3.3](https://github.com/Supervisor/supervisor)
 
 
 Usage
