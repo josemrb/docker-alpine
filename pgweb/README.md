@@ -3,7 +3,7 @@
 
 based on [josemrb/alpine-supervisord](https://hub.docker.com/r/josemrb/alpine-supervisord/)
 
-[pgweb 0.9.5](https://github.com/sosedoff/pgweb)
+[pgweb 0.9.8](https://github.com/sosedoff/pgweb)
 
 Usage
 
